@@ -1,0 +1,1 @@
+Images for overlooking root privileges write-up
